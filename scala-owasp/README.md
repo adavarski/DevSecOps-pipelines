@@ -8,4 +8,4 @@ sudo yum install sbt
 
 ### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/scala-owasp/Jenkinsfile-SCALA-PROJECT-example)
 
-Based on [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check)
+Based on [sbt-dependency-check plugin](https://github.com/albuch/sbt-dependency-check)
