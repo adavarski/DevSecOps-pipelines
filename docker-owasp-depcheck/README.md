@@ -15,5 +15,5 @@ In the following example it is assumed that the source to be checked is in the c
 ```
 PROJECT_NAME=foo owasp-check.sh
 ```
-#### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/owasp-docker-depcheck/blob/master/Jenkinsfile-PROJECT-OWASP)
+#### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/docker-owasp-depcheck/Jenkinsfile-PROJECT-OWASP)
 
