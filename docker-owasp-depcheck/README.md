@@ -150,6 +150,14 @@ Dependency-Check is an open source tool performing a best effort analysis of 3rd
 [INFO] Finished Dependency Bundling Analyzer (0 seconds)
 [INFO] Analysis Complete (5 seconds)
 
+### Check dc.html
+$ ls owasp-dependency-check/data/
+cache  jsrepository.json  odc.mv.db
+$ ls owasp-dependency-check/reports/
+dc.html  dc.log
+$ links owasp-dependency-check/reports/dc.html
+
+
 ```
 #### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/docker-owasp-depcheck/Jenkinsfile-PROJECT-OWASP)
 
