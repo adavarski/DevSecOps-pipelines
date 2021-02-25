@@ -1,6 +1,6 @@
 ### Example DevSecOps pipelines:
 
-- OWASP Dependency-Check script for DevSecOps pipelines (node, react, etc.)
+- OWASP Dependency-Check script for DevSecOps pipelines (node, react, python, etc.)
 
 - OWASP Dependency-Check for Scala projects and DevSecOps pipelines (scala)
 
