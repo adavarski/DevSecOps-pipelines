@@ -1,4 +1,4 @@
-### Example DevSecOps pipelines
+### Example DevSecOps pipelines:
 
 - OWASP Dependency-Check script for DevSecOps pipelines (node, react, etc.)
 
