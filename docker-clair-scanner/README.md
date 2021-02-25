@@ -61,4 +61,4 @@ docker network rm scanning
 docker container prune -f 
 docker image prune -f 
 ```
-Example DevSecOps J.Pipeline: [Jenkinsfile](https://github.com/adavarski/docker-clair-scanner/blob/main/Jenkinsfile-example)
+Example DevSecOps J.Pipeline: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/docker-clair-scanner/Jenkinsfile-example)
