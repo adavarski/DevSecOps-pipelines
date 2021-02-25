@@ -13,4 +13,4 @@ dependencyCheckAssemblyAnalyzerEnabled := Some(false)
 ```
 ### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/scala-owasp/Jenkinsfile-SCALA-PROJECT-example)
 
-Based on [SBT Plugin for OWASP DependencyCheck](https://github.com/albuch/sbt-dependency-check) 
+Based on [DependencyCheck](https://github.com/jeremylong/DependencyCheck) & [SBT Plugin for OWASP DependencyCheck](https://github.com/albuch/sbt-dependency-check)
