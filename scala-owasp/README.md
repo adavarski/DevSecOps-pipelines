@@ -1,4 +1,4 @@
-Pre: Install sbt on jenkins-slave
+### Pre: Install sbt on jenkins-slave
 
 CentOS Example:
 ```
@@ -6,6 +6,6 @@ curl https://bintray.com/sbt/rpm/rpm | sudo tee /etc/yum.repos.d/bintray-sbt-rpm
 sudo yum install sbt
 ```
 
-DevSecOps J.Pipeline example: Jenkinsfile
+### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/DevSecOps-pipelines/blob/main/scala-owasp/Jenkinsfile-SCALA-PROJECT-example)
 
-Based on https://github.com/albuch/sbt-dependency-check
+Based on [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check)
