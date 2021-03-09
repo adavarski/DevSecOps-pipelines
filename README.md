@@ -1,4 +1,4 @@
-### Example DevSecOps pipelines:
+### Example DevSecOps Jenkins pipelines (docker-based):
 
 - OWASP Dependency-Check script for DevSecOps pipelines (node, react, python, etc.)
 
